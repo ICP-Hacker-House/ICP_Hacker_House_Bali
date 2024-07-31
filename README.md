@@ -35,7 +35,7 @@ projects you could tackle.
 1. USD 3k in ICP grants
 2. USD 2k in ICP grants
 
-You can pick ideas from https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md
+[You can pick ideas from] (https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
 
 **How to Get Started:**
 1.  Attend the coding and tutorial sessions in the hacker house if you prefer to develop in Type Script; 
