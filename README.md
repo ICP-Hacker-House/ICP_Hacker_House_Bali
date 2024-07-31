@@ -5,7 +5,7 @@
   * [Tracks](#tracks)
     + [xChain dapps  - Total Prize pool of USD 5k](#xchain-dapps----total-prize-pool-of-usd-5k)
     + [Fully on-chain dapps - Total Prize pool of USD 5k](#fully-on-chain-dapps---total-prize-pool-of-usd-5k)
-    + [Build solidity smart contracts on ICP using the Bitfinity EVM - Total Prize pool of USD 5k](#build-solidity-smart-contracts-on-icp-using-the-bitfinity-evm---total-prize-pool-of-usd-5k)
+    + [Build solidity smart contracts on ICP - Total Prize pool of USD 5k](#build-solidity-smart-contracts-on-icp-using-the-bitfinity-evm---total-prize-pool-of-usd-5k)
   * [Resources](#resources)
   * [Submission](#submission)
   * [Judging Criteria](#judging-criteria)
@@ -59,7 +59,7 @@ possible directions you could take
 2. USD 1.5k in ICP grants
 3. USD 0.5k in ICP grants
 
-#### Build solidity smart contracts on ICP using the Bitfinity EVM - Total Prize pool of USD 5k
+#### Build solidity smart contracts on ICP - Total Prize pool of USD 5k
 
 [Bitfinity](Bitfinity is an Ethereum Virtual Machine (EVM) implemented as a smart contract on Internet Computer Protocol) is an Ethereum Virtual Machine (EVM) implemented as a smart contract on Internet Computer Protocol
 It helps scale the Ethereum ecosystem for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable, and future-safe platform, with low transaction costs for their users.
