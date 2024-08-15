@@ -5,7 +5,7 @@
   * [Tracks](#tracks)
     + [xChain dApps  - Total Prize pool of USD 5k](#xchain-dapps----total-prize-pool-of-usd-5k)
     + [Fully on-chain dApps - Total Prize pool of USD 5k](#fully-on-chain-dapps---total-prize-pool-of-usd-5k)
-    + [EVM dApps on ICP - Total Prize pool of USD 5k](#build-solidity-smart-contracts-on-icp-using-the-bitfinity-evm---total-prize-pool-of-usd-5k)
+    + [EVM dApps on ICP - Total Prize pool of USD 5k](#evm-dapps-on-icp---total-prize-pool-of-usd-5k)
   * [Resources](#resources)
   * [Submission](#submission)
   * [Judging Criteria](#judging-criteria)
