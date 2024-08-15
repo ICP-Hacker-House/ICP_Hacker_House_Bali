@@ -61,7 +61,7 @@ possible directions you could take
 
 #### EVM dApps on ICP - Total Prize pool of USD 5k
 
-[Bitfinity](Bitfinity is an Ethereum Virtual Machine (EVM) implemented as a smart contract on Internet Computer Protocol) is an Ethereum Virtual Machine (EVM) implemented as a smart contract on Internet Computer Protocol
+[Bitfinity](https://bitfinity.network/) is an Ethereum Virtual Machine (EVM) implemented as a smart contract on Internet Computer Protocol
 It helps scale the Ethereum ecosystem for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable, and future-safe platform, with low transaction costs for their users.
 
 Here are some suggested themes. Projects are not limited to these verticals.
