@@ -53,6 +53,7 @@ possible directions you could take
 -   **Privacy focused applications** - Blockchains in general are not the best for privacy of data. vetKeys on ICP help you build dapps in which users can preserve their privacy.
 -   **RWA DeFi protocols** - With https outcalls, ICP canisters can bring in real world data streams on chain. We are looking for projects that tokenize new assets and bring them on chain.
 -   **dAI** - With next-gen smart contracts that combine the scalability and user experience of web2 applications with the security guarantees of web3. ICP smart contracts can
+  -   your project must be built on ICP, and all code must be in the repo above
    -   **Handle large amounts of data**: ICP’s next gen contracts can store and process gigabytes of data, unlike traditional smart contracts that can only handle kilobytes. This is both required for storing and executing large AI models as well as processing large amounts of input data.
    - **Superior computational power**: ICP’s next gen smart contracts provide significantly higher computational power per transaction compared to current generation blockchains (two orders of magnitude). In addition, they are optimized to handle the complex calculations needed for AI models (e.g. floating point operations), making them much faster and more efficient.
     
