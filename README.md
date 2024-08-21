@@ -117,6 +117,7 @@ Here are some suggested themes. Projects are not limited to these verticals.
 
 Ask your hacker house mentor
 
+
 ## Project Submission
 To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
 Set the title of the Issue to the name of your project.
@@ -163,6 +164,10 @@ Note the submission criteria:
     -   If you solve challenge 1 and 2 in the same canister, you can just submit one canister/repo
     -   No re-use of previous works and plagiarism
     -   Projects that explicitly re-used or plagiarized other works may be reported and subjected to the award cancellation
+
+## Payout
+Create an oisy wallet [here](https://oisy.com/) to receive tokens
+
 
 ## Judging
 
