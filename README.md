@@ -117,6 +117,10 @@ Here are some suggested themes. Projects are not limited to these verticals.
 
 Ask your hacker house mentor
 
+```bash
+dfx wallet redeem-faucet-coupon <coupon_id>
+```
+
 
 ## Project Submission
 To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
