@@ -38,7 +38,7 @@ projects you could tackle.
 [You can pick ideas from](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
 
 **How to Get Started:**
-1.  Attend the coding and tutorial sessions in the hacker house if you prefer to develop in Type Script; 
+1.  Attend the coding and tutorial sessions in the hacker house if you prefer to develop in TypeScript; 
 2.  Or if you are already a Rust or Motoko developer, watch this [Youtube tutorial video](https://www.youtube.com/watch?v=gEuI43g1m94) to get an overview of the [IC-ETH-Starter] project.
 
 #### Fully on-chain dapps - Total Prize pool of USD 5k
@@ -121,6 +121,7 @@ Ask your hacker house mentor
 To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
 Set the title of the Issue to the name of your project.
 See an example project submission [here](https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1)
+We accept submissions in TypeScript or JavaScript (Azle), Rust and Motoko.
 In order for your submission to be considered, include the following things in the Issue description:
 
 -   link to a Github repository containing **your** project code (not just the template!) and a README.md on how to run it (main branch is considered only)
@@ -149,7 +150,7 @@ There are 2 challenges, you can do them in Azle (TS/JS), Rust or Motoko.
 To submit a challenge for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
 Set the title of the Issue as follows: Challenge Submission.
 See an example challenge submission [here]([https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/1))
-
+We accept submissions in TypeScript or JavaScript (Azle), Rust and Motoko.
 In order for your submission to be considered, include the following things in the Issue description:
 
 -   link to a Github repository containing **your** project code (not just the template!) (main branch is considered only)
