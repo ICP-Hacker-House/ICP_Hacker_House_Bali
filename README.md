@@ -121,7 +121,7 @@ Ask your hacker house mentor
 ## Project Submission
 To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
 Set the title of the Issue to the name of your project.
-See an example project submission [here](https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1).
+See an example project submission [here](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/2).
 We accept submissions in TypeScript or JavaScript (Azle), Rust and Motoko.
 In order for your submission to be considered, include the following things in the Issue description:
 
@@ -136,7 +136,7 @@ In order for your submission to be considered, include the following things in t
     -   please use GitHub username for everyone
     -   Discord IDs
 -   link to canister on mainnet (e.g. `https://5zugh-4yaaa-aaaag-qjqra-cai.raw.icp0.io`)
--   your ICP principal for the payout  (from the OISY wallet)
+-   your ICP principal for the payout (from the OISY wallet)
 -   feedback part
     -   what have you learned
     -   what were the challenges you ran into
