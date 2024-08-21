@@ -118,7 +118,7 @@ Here are some suggested themes. Projects are not limited to these verticals.
 Ask your hacker house mentor
 
 ```bash
-dfx wallet redeem-faucet-coupon <coupon_id>
+dfx wallet redeem-faucet-coupon <coupon_id> --ic
 ```
 
 
