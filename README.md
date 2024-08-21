@@ -100,13 +100,13 @@ Here are some suggested themes. Projects are not limited to these verticals.
 
   
 ### General
+- [Azel Book](https://demergent-labs.github.io/azle/the_azle_book.html)
 - [101 Azle Tutorial](https://dacade.org/zh/communities/icp/courses/typescript-smart-contract-101/learning-modules/b14741ea-ee33-43a4-a742-9cdc0a6f0d1c)
 - [ICP Hackathon Cheatsheet](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c)
 - [Awesome Internet Computer Dev Resources](https://github.com/dfinity/awesome-internet-computer)
 - [ICP Zero to Dapp Series](https://youtube.com/playlist?list=PLuhDt1vhGcrcRcHvSKmxIgJAh1b3rcR7N&si=Dy3Zm1t5oBJY916n)
 - [Rust CDK docs](https://docs.rs/ic-cdk/latest/ic_cdk/)
 - [AI DevRel](https://icp-ai-chat-frontend.vercel.app/)
-- [Azel Book](https://demergent-labs.github.io/azle/the_azle_book.html)
 - [Various Courses in multiple languages](https://dacade.org/communities/icp)
 - [BITFINITY EVM](https://docs.bitfinity.network/)
 - [Tutorial BITFINITY -1](https://www.youtube.com/playlist?list=PLUDcVqFK2t-C36KaTMzV3y1wu8Hf-qyAI)
@@ -117,10 +117,10 @@ Here are some suggested themes. Projects are not limited to these verticals.
 
 Ask your hacker house mentor
 
-## Submission
-To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/new) on this repository before the deadline.
+## Project Submission
+To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
 Set the title of the Issue to the name of your project.
-See an example submission [here](https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1)
+See an example project submission [here](https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1)
 In order for your submission to be considered, include the following things in the Issue description:
 
 -   link to a Github repository containing **your** project code (not just the template!) and a README.md on how to run it (main branch is considered only)
@@ -138,6 +138,30 @@ In order for your submission to be considered, include the following things in t
     -   what have you learned
     -   what were the challenges you ran into
     -   what are you proud of
+
+## Challenge Submission
+
+There are 2 challenges, you can do them in Azle (TS/JS), Rust or Motoko.
+
+1) You have to submit a canister featuring a custom **frontend & backend** (don't just copy the template).
+2) Submit a canister using **HTTPS outcalls**, or making a **crosschain interaction**.
+
+To submit a challenge for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/new) on this repository before the deadline.
+Set the title of the Issue as follows: Challenge Submission.
+See an example challenge submission [here]([https://github.com/ICP-Hacker-House/ICP_Hacker_House_HK/issues/1](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/1))
+
+In order for your submission to be considered, include the following things in the Issue description:
+
+-   link to a Github repository containing **your** project code (not just the template!) (main branch is considered only)
+OR:
+-   link to canister on mainnet (e.g. `https://5zugh-4yaaa-aaaag-qjqra-cai.raw.icp0.io`)
+
+Note the submission criteria:
+    -   The issue must be created from a github user
+    -   Team submissions are not accepted here
+    -   If you solve challenge 1 and 2 in the same canister, you can just submit one canister/repo
+    -   No re-use of previous works and plagiarism
+    -   Projects that explicitly re-used or plagiarized other works may be reported and subjected to the award cancellation
 
 ## Judging
 
