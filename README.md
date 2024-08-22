@@ -23,12 +23,15 @@ inspire yourself from/copy
 
 
 The Internet Computer is a unique platform to build cross-chain dapps. In the
-workshops, you’ll get introduced to threshold ECDSA, the Bitcoin integration,
-ckBTC, HTTPS outcalls, and the [IC-ETH-Starter] template as an example.
+workshops, you’ll get introduced to threshold ECDSA, the Bitcoin integration, ckBTC , HTTPS outcalls to other chains, and the [IC-ETH-Starter] template as an example.
 
 In this track, you are challenged to use one or more of these powerful building
 blocks to create a novel application. In the following, we have listed some
 projects you could tackle.
+
+* Use ckBTC, ckETH, ckUSDC, ...
+* Use EVM RPC canister
+* Use HTTPS outcalls to other chains
 
 ##### Prizes
 
