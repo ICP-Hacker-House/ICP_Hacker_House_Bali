@@ -7,7 +7,7 @@
     + [Fully on-chain dApps - Total Prize pool of USD 5k](#fully-on-chain-dapps---total-prize-pool-of-usd-5k)
     + [EVM dApps on ICP - Total Prize pool of USD 5k](#evm-dapps-on-icp---total-prize-pool-of-usd-5k)
   * [Resources](#resources)
-  * [Submission](#submission)
+  * [Submission](#submission)a
   * [Judging Criteria](#judging-criteria)
 
 
